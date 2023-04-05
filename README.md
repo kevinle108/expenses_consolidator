@@ -1,4 +1,4 @@
-# expenses_consolidator
+# Expenses Consolidator
 An ETL program to consolidate all my different bank transactions into a single csv. This csv is then used to log all my expenses in Google Sheets 
 
 Currently supports the following banks:
