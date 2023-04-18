@@ -12,7 +12,7 @@ Currently supports the following banks:
 First, clone this repo & install the dependencies by running:
 `npm i`
 
-Then go your respective bank and download the transactions from as a CSV file.
+Then go your respective banks and download the transactions from as a CSV file. Don't change the csv file name as this program uses the file name to determine how to clean up the transaction data.
 
 Next place your csv files into the "input" folder.
 
