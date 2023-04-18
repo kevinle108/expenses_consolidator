@@ -1,5 +1,5 @@
 # Expenses Consolidator
-An ETL program to consolidate all my different bank transactions into a single csv file. I can then use this csv in Google Sheets where I categorize and analyze my expenses. 
+An ETL program to clean up and consolidate all my different bank transactions into a single csv file. I can then use this csv in Google Sheets where I categorize and analyze my expenses. 
 
 ![flow](https://user-images.githubusercontent.com/54592360/232820984-41f6676b-a3cc-4c13-97fb-f0322c5e357f.png)
 
