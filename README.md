@@ -28,6 +28,6 @@ Currently supports the following banks:
 - US Bank
 
 ### Future Plans
-- implement database feature by integrating Prisma to turn the transactions to a user-friendly database viewer
+- implement database feature by integrating Prisma and SQLite to turn the transactions to a user-friendly database viewer
 - support for other banks
 
